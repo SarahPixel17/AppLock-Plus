@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🌟 App Metadata -->
+    <string name="app_name">AppLock+</string>
+
+    <!-- 👁️ Accessibility Service Texts -->
+    <string name="accessibility_service_label">AppLock+ Protection Service</string>
+    <string name="accessibility_service_description">
+        AppLock+ monitors which apps you open and locks them automatically during
+        your configured schedules or when privacy protection rules apply.
+        It prevents unauthorized access to selected applications.
+    </string>
+    <string name="accessibility_service_summary">
+        Keeps your selected apps locked and protected when launched.
+    </string>
+
+    <!-- ⚙️ Notification Titles and Messages -->
+    <string name="notification_channel_name">AppLock+ Background Protection</string>
+    <string name="notification_channel_description">
+        Shows status updates and alerts when AppLock+ is protecting your apps.
+    </string>
+    <string name="notification_title">AppLock+ Active</string>
+    <string name="notification_message">Your locked apps are being protected.</string>
+
+    <!-- 📍 Location/Time-based Lock -->
+    <string name="location_service_title">Location Lock Active</string>
+    <string name="location_service_message">
+        AppLock+ is enforcing location/time-based restrictions.
+    </string>
+
+    <!-- 🔐 Unlock Screen -->
+    <string name="unlock_title">Unlock Required</string>
+    <string name="unlock_message">Please verify your PIN or biometric to open this app.</string>
+
+    <!-- ⚠️ Errors and Warnings -->
+    <string name="error_accessibility_not_enabled">
+        Accessibility Service is not enabled. Please turn on AppLock+ under Accessibility Settings.
+    </string>
+    <string name="error_permission_denied">
+        Permission denied. Some AppLock+ features may not work properly.
+    </string>
+    <string name="error_general">Something went wrong. Please try again.</string>
+
+    <!-- 🧭 Misc UI Strings -->
+    <string name="btn_enable_now">Enable Now</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_close">Close</string>
+</resources>
