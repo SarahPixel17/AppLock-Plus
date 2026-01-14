@@ -1,22 +1,16 @@
-# AppLock+
+# applockplus
 
-AppLock+ is an Android-based privacy protection application that automatically locks selected apps based on user-defined time schedules and locations.
+A new Flutter project.
 
-## Features
-- Time-based app locking
-- Location-based app locking (GPS)
-- PIN / Pattern authentication
-- User-defined locking rules
-- Lightweight and privacy-focused (no AI, no biometrics)
+## Getting Started
 
-## Technologies Used
-- Android Studio
-- Java
-- Android Location Services
-- Agile Methodology
+This project is a starting point for a Flutter application.
 
-## Project Type
-Final Year Project (FYP)
+A few resources to get you started if this is your first Flutter project:
 
-## Author
-Sarah Aisyah Binti Suhaimi
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
